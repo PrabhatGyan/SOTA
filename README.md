@@ -6,7 +6,7 @@
 ### **Supervisor**: [Dr. Anand Mishra](https://anandmishra22.github.io/) <br>
 
 #### Overview
-We are in the era of Generative Artificial Intelligence (AI). With the paradigm shift of just looking for the patterns in the data, we have taken a step forward where we want to generate brand new data instances based on the patterns we have learnt from the given data. Deep Generative Modelling can be considered as a particular subset of Deep Learning where the end objective is to generate brand-new data instances. These are typically unsupervised learning methods, where we are provided with the training data X which is coming from a probability distribution $p_{data}(x)$. However, we do not know whatsoever about the data-generating distribution. What we want to learn is a $p_{model}(x)$, such that the learn distribution is as close as possible to the original data distribution. If we can do that, then we can use the learned distribution to sample new data instances.
+We are currently in the era of Generative Artificial Intelligence (AI). Departing from the conventional approach of solely identifying patterns within data, we have taken a step forward with a paradigm-shifting idea of generating brand new data instances by leveraging the patterns we have learnt from the given data. This novel direction can be categorized as Deep Generative Modeling, which constitutes a specialized branch of Deep Learning. The ultimate objective of Deep Generative Modeling is to focus on creating sophisticated models capable of generating new data that is indistinguishable from real examples. These methodologies typically fall under the category of unsupervised learning. This approach goes beyond mere data pattern recognition; it endeavours to understand the underlying data distribution and generate entirely novel instances that conform to that distribution. Deep Generative Models, like Variational Autoencoders (VAEs) and Generative Adversarial Networks (GANs), have shown remarkable success in diverse applications, including image synthesis, text generation, handwritten text generation and data augmentation, making them a pivotal part of contemporary AI research.
 
 ### **Resources**
 - Short Presentation - [Link]()
@@ -30,7 +30,6 @@ We are in the era of Generative Artificial Intelligence (AI). With the paradigm 
      - Feature Learning
      - Dimensionality Reduction
    * Takeaways
-   * Generation
 3. **Variational Autoencoders**
    * Introduction
    * Traditional vs Variational Autoencoders
